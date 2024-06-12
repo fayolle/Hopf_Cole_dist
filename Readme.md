@@ -1,5 +1,5 @@
 # Hopf-Cole / Varadhan distance 
-Compute the approximation of the distance function to the boundary of a domain by solving a screend Poisson equation and using Varadhan's formula / the Hopf-Cole transform. See equations (4) and (5) in this [paper](https://arxiv.org/abs/1204.6216) or equations (6) - (11) in this [one](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12611). 
+Compute an approximation of the distance function to the boundary of a domain by solving a screened Poisson equation and using Varadhan's formula / the Hopf-Cole transform. See equations (4) and (5) in this [paper](https://arxiv.org/abs/1204.6216) or equations (6) - (11) in this [one](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12611). 
 
 ## Examples 
 Clone this repo, go to the directory 'src' and run one of the scripts 'demo_fig' or 'demo_to_vtk' within Matlab. 
